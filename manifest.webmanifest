@@ -1,0 +1,18 @@
+{
+    "short_name": "lista",
+    "name": "lista",
+    "start_url": ".",
+    "display": "standalone",
+    "theme_color": "#ffffff",
+    "theme-color": "#ffffff",
+    "background_color": "#000000",
+    "background-color": "#000000",
+    "description": "my site description",
+    "icon": [
+        {
+            "src": "logo.jpg",
+            "sizes": "505x505",
+            "type": "image/jpg"
+        }
+    ]
+}
