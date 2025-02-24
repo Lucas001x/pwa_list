@@ -1,4 +1,4 @@
-#Progressive web app
+# Progressive web app
 
 📌 To-Do List PWA
 📖 Sobre o Projeto
