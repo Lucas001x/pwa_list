@@ -1,3 +1,5 @@
+#Progressive web app
+
 📌 To-Do List PWA
 📖 Sobre o Projeto
 Esta é uma Progressive Web App (PWA) interativa de lista de tarefas, desenvolvida em JavaScript, que permite aos usuários gerenciar suas atividades de forma prática e eficiente.
